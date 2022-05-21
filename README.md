@@ -9,25 +9,18 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 ## Algorithm
 
 ### Step1:
-<br>
 Load the image and convert the image to Grayscale.
 ### Step2:
-<br>
 Smoothen the image using Gaussian Method.
 ### Step3:
-<br>
 Apply thresholding cv2.THRESH_BINARY on the image.
 ### Step4:
-<br>
 Apply thresholding cv2.THRESH_BINARY_INC on the image.
 ### Step5:
-<br>
 Apply thresholding cv2.THRESH_TRUNC on the image.
 ### Step6:
-<br>
 Apply thresholding cv2.THRESH_TOZERO on the image.
 ### Step6:
-<br>
 Apply thresholding cv2.THRESH_TOZERO_INC on the image.
 
 ## Program
