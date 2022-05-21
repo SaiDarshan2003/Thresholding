@@ -20,7 +20,7 @@ Apply thresholding cv2.THRESH_BINARY_INC on the image.
 Apply thresholding cv2.THRESH_TRUNC on the image.
 ### Step6:
 Apply thresholding cv2.THRESH_TOZERO on the image.
-### Step6:
+### Step7:
 Apply thresholding cv2.THRESH_TOZERO_INC on the image.
 
 ## Program
