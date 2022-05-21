@@ -71,33 +71,15 @@ plt.imshow(th2,cmap='gray')
 ## Output
 
 ### Original Image
-<br>
-<br>
-<br>
-<br>
-<br>
-
+![inp](og.png)
 ### Global Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+![inp](b.png)![inp](bi.png)![inp](t.png)![inp](toz.png)![inp](tozi.png)
 
 ### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
-
+![inp](ad1.png)
+![inp](ad2.png)
 ### Optimum Global Thesholding using Otsu's Method
-<br>
-<br>
-<br>
-<br>
-<br>
-
+![inp](ot.png)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
