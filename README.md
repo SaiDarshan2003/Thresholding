@@ -1,5 +1,6 @@
-# Thresholding of Images
-## Aim
+<h1 align="center"> Thresholding of Images </h1> 
+
+## Aim 
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
 ## Software Required
